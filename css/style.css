@@ -287,3 +287,19 @@
     background: var(--dark);
     border-color: var(--primary);
 }
+.cx2{
+       
+    width:35% ; 
+    display:inline-block;
+    margin-right:14%;
+}   
+.cx3,.cx5{
+    width:50% ;     
+    display:inline-block;   
+    margin-left:0%;
+}
+.cx6{
+    display:inline-block;
+    width: 30%;
+    margin-left: 19%;
+}       
