@@ -287,8 +287,7 @@
     background: var(--dark);
     border-color: var(--primary);
 }
-.cx2{
-       
+.cx2{       
     width:35% ; 
     display:inline-block;
     margin-right:14%;
@@ -298,8 +297,24 @@
     display:inline-block;   
     margin-left:0%;
 }
-.cx6{
-    display:inline-block;
+.cx6{    
     width: 30%;
+    display:inline-block;
     margin-left: 19%;
-}       
+} 
+.cx9{
+    width:31% ; 
+    display:inline-block;
+    margin-right:2%;
+}      
+.cx10{
+    width: 66% ; 
+    display:inline-block;
+    margin-right:0%;
+}
+#arquivo:hover{
+    cursor:pointer;   
+    color: rgb(48, 48, 149);     
+}
+
+  
