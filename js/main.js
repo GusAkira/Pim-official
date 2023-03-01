@@ -83,7 +83,7 @@
                 {
                     label: "AU",
                     data: [12, 25, 45, 55, 65, 70, 60],
-                    backgroundColor: "rgba(235, 22, 22, .3)"
+                    backgroundColor: "rgba(235, 2, 22, .3)"
                 }
             ]
             },
